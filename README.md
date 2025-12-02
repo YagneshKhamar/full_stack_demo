@@ -1,4 +1,4 @@
-# Token Service Demo
+# Full Stack Project Demo
 
 A minimal Next.js + Prisma + Postgres demo for creating and listing short-lived tokens.
 
